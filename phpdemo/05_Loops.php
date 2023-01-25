@@ -63,7 +63,7 @@ foreach ($array as $value){
 // }
 
 //Associative Array
-$person = [
+/* $person = [
     'first_name' => 'Florence',
     'last_name'=> 'Gutierrez',
     'email'=> 'florencegutierrezmain@gmail.com'
@@ -72,4 +72,4 @@ $person = [
 //Get keys
 foreach($person as $key => $val) {
     echo "$key - $val <br>";
-}
+} */
